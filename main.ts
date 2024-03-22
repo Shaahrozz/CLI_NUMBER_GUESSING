@@ -15,5 +15,5 @@ else if (guess.n > target) {
 console.log("Your guess is too high")
 } 
 else {
-console. log("You guessed correctly!")
+console.log("Congratulations!, You guessed correctly!")
 }
